@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/orvice/shadowsocks-go",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": []
+}
